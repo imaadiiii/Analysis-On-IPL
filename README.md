@@ -9,7 +9,7 @@ Pandas, Numpy, Matplotlib, Seaborn
 3. Max and Min win by wicket match details
 4. Number and percentage of matches in which DL method is used
 5. Graphical representation of number of matches played in different cities.
-6. Finding out Number of matches won by each team pnlus its graphical representation
+6. Finding out Number of matches won by each team plus its graphical representation
 7. Graphical representation of number of played in each season
 8. Finding out number of matches and its percentage in which the team who had won the toss have won match
 9. Finding out toss decision
