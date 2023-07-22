@@ -5,8 +5,8 @@ This Analysis is only Till Year 2019.
 Pandas, Numpy, Matplotlib, Seaborn
 # Features:
 1. Years in which IPL played
-2. Max and Min win by runs match details
-3. Max and Min win by wicket match details
+2. Max and Min win by runs match detail
+3. Max and Min win by wicket match detail
 4. Number and percentage of matches in which DL method is used
 5. Graphical representation of number of matches played in different cities.
 6. Finding out Number of matches won by each team plus its graphical representation
