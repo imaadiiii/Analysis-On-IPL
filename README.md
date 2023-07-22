@@ -13,6 +13,6 @@ Pandas, Numpy, Matplotlib, Seaborn
 7. Graphical representation of number of played in each season
 8. Finding out number of matches and its percentage in which the team who had won the toss have won match
 9. Finding out toss decision
-10. DL applied match venue
+10. DL applied match venue in the graphical form
 11. Analysis on Result
 12. Graphical form of Number of times toss had won by each team
